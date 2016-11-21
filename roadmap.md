@@ -1,7 +1,9 @@
 # 1. Overview
+
 ### 1.1 Problem statement
 - definition claire et precise du problème (eventuellement passer par un peu de maths)
 - essayer de trouver si le problème peut se rattacher à une "task" générique ex. multilabel classification, object detection, ...
+
 ### 1.2 Metrics
 - definition des metrics pour mesurer les performances du model
 - si metrics déjà proposées par le challenge, comprendre comment elles sont calculées
@@ -17,8 +19,10 @@
  - définir les features : comment représenter les données. Pour du texte : array de int, 1-hot encoding, wordvectors ?
 
 # 4. Implementation
+
 ### 4.1 Benchmark
 - entrainer benchmark model avec hyperparameters de base, va servir de référentiel pour le refinement
 - éventuellement prendre le modèle d'un participant du challenge Kaggle (je sais pas encore)
+
 ### 4.2 Refinement
 - modifier hyperparameters du modèle afin d'ameliorer performances : dropout, batch norm, variable initizalition, optimizer, ...
