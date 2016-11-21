@@ -1,2 +1,7 @@
-# pfe-keyword
-PFE TC 2016 Batisse Leaute
+# PFE 2016-2017
+## Keyword extraction
+
+-Alexandre Batisse
+-Nathanaël Leaute
+
+TC 2016-2017
