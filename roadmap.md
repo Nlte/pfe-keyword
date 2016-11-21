@@ -12,7 +12,7 @@
  - qualifier le type de données et extraire statistiques
  - par ex. pour du texte : est-ce que le language est familier type twitter ? 
  - taille du vocabulaire, frequency distribution, ... (cf. notebook)
- - quel preprocessing steps à prévoir si les données présentes beaucoup de bruit
+ - quel preprocessing steps à prévoir si les données présentent beaucoup de bruit
 
 # 3. Model definition
  - definition du modèle à utiliser pour résoudre le problème ex. Logistic Regression, RNN, K-CCA, ... ==> lecture de papier de recherche
